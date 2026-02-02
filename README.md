@@ -1,82 +1,62 @@
-<div align="center">
+```
+ ██████╗ ██████╗ ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝
+██║     ██║   ██║██║  ██║█████╗  
+██║     ██║   ██║██║  ██║██╔══╝  
+╚██████╗╚██████╔╝██████╔╝███████╗
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header)
+```bash
+$ whoami
+> software_engineer --location "UAE" --focus "mobile & web"
+```
 
-# Software Engineer
+```bash
+$ cat skills.json
+```
+```json
+{
+  "mobile": ["Flutter", "Dart", "iOS", "Android"],
+  "web": ["Next.js", "TypeScript", "React", "TailwindCSS"],
+  "backend": ["Supabase", "PostgreSQL", "Firebase", "Node.js"],
+  "architecture": ["Clean Architecture", "BLoC", "MVVM", "DDD"],
+  "tools": ["Git", "Docker", "Linux", "VS Code"]
+}
+```
 
-**Mobile & Web Development | Clean Architecture | Building for MENA**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat&logo=safari&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
-### About
-
-Software engineer based in the UAE, focused on building scalable SaaS products and mobile applications. I specialize in clean, maintainable code and creating solutions tailored for the Middle Eastern market.
-
-```yaml
-Focus Areas:
-  - Cross-platform mobile development
-  - B2B SaaS applications
-  - System architecture & design patterns
-  - Arabic RTL implementations
-
-Currently:
-  - Building enterprise software solutions
-  - Exploring automation & AI integrations
+```bash
+$ cat current_status.log
+```
+```
+[ACTIVE] Building SaaS products for MENA region
+[ACTIVE] Mobile apps with Clean Architecture
+[ACTIVE] Automation & AI integrations
+[LEARNING] Always shipping, always improving
 ```
 
 ---
 
-### Tech Stack
-
-**Mobile**
-`Flutter` `Dart` `iOS` `Android`
-
-**Web**
-`Next.js` `TypeScript` `React` `TailwindCSS`
-
-**Backend**
-`Supabase` `PostgreSQL` `Firebase` `REST APIs`
-
-**Architecture**
-`Clean Architecture` `BLoC/Cubit` `MVVM` `Domain-Driven Design`
-
-**Tools**
-`Git` `Docker` `Figma` `VS Code`
-
----
-
-### GitHub Activity
-
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=8B949E&hide_title=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="700"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="700"/>
 
 </div>
 
 ---
 
-### Approach
-
-- Write code that scales and maintains itself
-- Architect solutions before writing a single line
-- Ship fast, iterate faster
-- Documentation is not optional
-
----
+```bash
+$ echo $CONTACT
+> open to collaborations • reach out via issues or PRs
+```
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat&label=Views)
-
-*Open to collaboration on impactful projects*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
