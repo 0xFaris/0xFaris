@@ -24,7 +24,6 @@ const engineer = {
     focus: ["Mobile Development", "SaaS Products", "System Design"],
     architecture: ["Clean Architecture", "Domain-Driven Design", "MVVM"],
     principles: ["SOLID", "DRY", "KISS", "Test-Driven Development"],
-    currentlyBuilding: "B2B Solutions for MENA Market"
 };
 ```
 
