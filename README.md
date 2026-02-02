@@ -79,8 +79,7 @@ const engineer = {
 │                                                                 │
 │   ▸ Build cross-platform mobile applications with Flutter       │
 │   ▸ Develop scalable B2B SaaS products                          │
-│   ▸ Design system architecture following Clean Architecture     │
-│   ▸ Implement Arabic RTL interfaces for MENA market             │
+│   ▸ Design system architecture following Clean Architecture     │       
 │   ▸ Create automation workflows and AI integrations             │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
