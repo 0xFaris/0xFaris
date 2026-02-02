@@ -1,34 +1,28 @@
-## Hey, I'm a Software Engineer from UAE 🇦🇪
+### Software Engineer
 
-I build mobile apps and SaaS products with a focus on clean architecture and scalable systems.
+Building mobile apps and SaaS products. Based in UAE.
 
-```ts
-const stack = {
-    mobile:       ["Flutter", "Dart"],
-    frontend:     ["Next.js", "TypeScript", "React", "TailwindCSS"],
+```js
+const skills = {
+    languages:    ["Dart", "TypeScript", "Python", "JavaScript"],
+    mobile:       ["Flutter", "iOS", "Android"],
+    web:          ["Next.js", "React", "TailwindCSS"],
     backend:      ["Supabase", "PostgreSQL", "Firebase"],
-    architecture: ["Clean Architecture", "BLoC/Cubit", "MVVM"],
-};
+    architecture: ["Clean Architecture", "BLoC", "MVVM"]
+}
 ```
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xFaris&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaris&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=0xFaris&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%"/>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=0xFaris&theme=github-dark-blue&hide_border=true" width="600"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xFaris&theme=github-compact&hide_border=true&area=true" width="600"/>
-</p>
+<img src="https://ghchart.rshah.org/0xFaris" width="100%"/>
 
 ---
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=0xFaris&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
