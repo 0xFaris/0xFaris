@@ -100,18 +100,6 @@ const engineer = {
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![0xFaris's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xFaris&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaris&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xFaris&style=for-the-badge&color=blue)
