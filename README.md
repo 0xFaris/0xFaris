@@ -8,9 +8,8 @@ Mobile Development · SaaS Products · Clean Architecture
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/epicF2ris)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3zands2@gmail.com)
 
 </div>
 
@@ -18,7 +17,7 @@ Mobile Development · SaaS Products · Clean Architecture
 
 ### About
 
-I am a software engineer specializing in building high-quality mobile applications and B2B SaaS products for the MENA region. I focus on writing clean, scalable, and maintainable code following industry best practices and modern architecture patterns.
+I am a software engineer specializing in building high-quality mobile applications. I focus on writing clean, scalable, and maintainable code following industry best practices and modern architecture patterns.
 
 ```ts
 const engineer = {
