@@ -100,15 +100,13 @@ const engineer = {
 
 ---
 
-### GitHub Analytics
+### GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=0xFaris&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![0xFaris's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xFaris&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xFaris&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=0xFaris&theme=github-dark-blue&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xFaris&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
