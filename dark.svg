@@ -220,15 +220,13 @@
 <animate attributeName="opacity" values="0;1" begin="4.04s" dur="0.5s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="4.04s" dur="0.5s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze"/>
 <circle cx="500" cy="373" r="2" fill="#10B981" opacity="0.9"/>
-<text x="514" y="377" font-family="ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,monospace" font-size="14" fill="#A78BFA" xml:space="preserve">portfolio:</text>
-<text x="636" y="377" font-family="ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,monospace" font-size="14" fill="#F8FAFC" fill-opacity="0.9" xml:space="preserve">alexcarter.dev</text>
 </g>
 <g opacity="0" transform="translate(0 8)">
 <animate attributeName="opacity" values="0;1" begin="4.22s" dur="0.5s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="4.22s" dur="0.5s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze"/>
 <circle cx="500" cy="400" r="2" fill="#10B981" opacity="0.9"/>
 <text x="514" y="404" font-family="ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,monospace" font-size="14" fill="#A78BFA" xml:space="preserve">email:</text>
-<text x="636" y="404" font-family="ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,monospace" font-size="14" fill="#F8FAFC" fill-opacity="0.9" xml:space="preserve">hello@alexcarter.dev</text>
+<text x="636" y="404" font-family="ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,monospace" font-size="14" fill="#F8FAFC" fill-opacity="0.9" xml:space="preserve">3zands2@gmail.com</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" values="0;1" begin="4.35s" dur="0.2s" fill="freeze"/>
